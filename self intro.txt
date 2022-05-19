@@ -1,0 +1,32 @@
+Myself PRAVEENKUMAR born and raised in dHARUMAPURI district and i have 3 years of
+experience in Manual and automation testing.now am Working in "CANDID TECHNO SOLUTION" a software test engineer .
+
+I have  experience in both Automation and Manual Testing
+relevent in automation is 2 years and 1 year into Manual.
+
+I started my career as a Manual tester and now continuing as Automation tester
+I have worked on tools like selenium with core java
+where we used framework like Data Driven with TestNG and BDD Cucumber Framework.
+
+Having experience towards POM Design Pattern and to maintain proper structure we use Build Management Tools 
+like MAVEN where Project Object management will be used.
+
+Sound Knowledge in OOPs Concept like Inheritence,Abstraction,Polymorphism and encapsulation.
+
+Profound Knowledge in developing and executing test cases manually and developing scripts in SELENIUM WEBDRIVER
+Experience in Identifying Xpath and involved in creating, Executing test case and test Plan.
+
+Good knowledge towards SDLC and STLC also involved in FUNCTIONAL TESTING(Block Box Testing ),REGRESSION TESTING,SMOKE,SANITY,integration ,and finaly End to End test 
+
+Experience towards JIRA TOOL for defect tracking process and good Experience towards Agile Methodology and also knowledge in GIT.
+
+My Project it is completely into E-commerce domain where any kind product can be stored and brought towards comfort zone through internet.
+My Major Roles and Responsibilities is involved in creating Test Scenarios and collecting Test Data
+identifying end to end scenarios and test automation using selenium WebDriver and BDD cucumber Framework
+Creating reusable script for automation like Base class 
+Anlyzing Test Results and Reporting Defects and managing error handling issues.
+And Attending Day to Day Standup calls. 
+ 
+  
+ 
+ 
