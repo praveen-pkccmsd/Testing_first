@@ -2,7 +2,7 @@ Myself PRAVEENKUMAR born and raised in dHARUMAPURI district and i have 3 years o
 experience in Manual and automation testing.now am Working in "CANDID TECHNO SOLUTION" a software test engineer .
 
 I have  experience in both Automation and Manual Testing
-relevent in automation is 2 years and 1 year into Manual.
+relevent in automation is 2 years and 1 year into Manual..
 
 I started my career as a Manual tester and now continuing as Automation tester
 I have worked on tools like selenium with core java
